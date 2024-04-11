@@ -1,0 +1,52 @@
+# Genome assembly ASM3034745v1
+
+Submitted GenBank assembly: GCA_030347455.1
+Taxon: Kentomonas sorsogonicus
+Strain: MF-08
+WGS project: JAQOSZ01
+Assembly type: haploid
+Submitter: ICBUSP
+Date: Jun 22, 2023
+
+## Assembly statistics	
+    GenBank
+Genome size: 34.8 Mb
+Total ungapped length: 34.8 Mb
+Number of organelles:	1
+Number of scaffolds:	304
+Scaffold N50:	430.5 kb
+Scaffold L50:	26
+Number of contigs:	323
+Contig N50:	357 kb
+Contig L50:	32
+GC percent:	56
+Genome coverage:	35.0x
+Assembly level	Scaffold
+
+## Sample details
+BioSample ID: SAMN32893447
+Description: MIGS Eukaryotic sample from Kentomonas sorsogonicus
+Comment Keywords: GSC:MIxS;MIGS:6.0
+Owner name: ICBUSP
+Strain: MF-08
+Collection date: Apr 2, 2013
+Env broad scale: unknown
+Env local scale: unknown
+Env medium: unknown
+Geo loc name: Philippines: Sorsogon
+Host: female Sarcophaga sp. (Diptera)
+Isol growth condt: 25460233
+Lat lon: 12.91 N 123.59 E
+Host body habitat: gut
+Host sex: female
+Sample name: KSOR
+SRA: SRS17964584
+Models: MIGS.eu, MIGS/MIMS/MIMARKS.host-associated
+Package: MIGS.eu.host-associated.6.0
+Submission date: 2023-01-24T14:13:04.116
+Publication date: 2023-06-14T00:00:00.000
+Last updated: 2023-06-14T08:14:02.525
+
+## Assembly methods 
+Sequencing technology: Illumina HiSeq;PacBio RSII
+Assembly method: FLYE v. 2.9 B - 1774
